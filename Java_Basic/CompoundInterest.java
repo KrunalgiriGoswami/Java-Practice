@@ -1,0 +1,26 @@
+package Java_Basic;
+
+import java.util.Scanner;
+
+public class CompoundInterest {
+
+    public static void main(String[] args) {
+
+        // Scanner object for user input
+        Scanner sc = new Scanner(System.in);
+
+        // Prompt user for input
+        System.out.print("Enter the principal amount (P): ");
+        float principal = sc.nextFloat();
+        System.out.print("Enter the rate of interest (R) in percentage: ");
+        float rate = sc.nextFloat();
+        System.out.print("Enter the time period (T) in years: ");
+        float time = sc.nextFloat();
+
+        // Calculate simple interest
+        float interest = principal * (1 + rate / 100) * time;
+
+        // Display result
+        System.out.println("Compound Interest (CI) = " + interest);
+    }
+}

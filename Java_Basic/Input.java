@@ -1,3 +1,5 @@
+package Java_Basic;
+
 import java.util.Scanner;
 
 public class Input {
@@ -8,6 +10,6 @@ public class Input {
         System.out.println("What is Your Name : ");
         String name = sc.nextLine();
 
-        System.out.println("My Name is "+ name);
+        System.out.println("Hello " + name + " Welcome to JAVA Programing...");
     }
 }
