@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Basic Part-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramiZ-Example/Introduction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/W3-Resource/Basic Part-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GFG-Java-Examples/Java Basic Programs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramiZ-Example" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Codes_Top500/ASCII_Table" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Codes_Top500/Working_With_Numbers" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
